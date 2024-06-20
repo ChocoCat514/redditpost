@@ -1,20 +1,11 @@
 {
   "posts": [
     {
-      "userId": 1,
-      "id": 1,
-      "title": "controversial news title here",
-      "body": "this is so controversial"
+      "userId": 1, "id": 1, "title": "controversial news title here", "body": "this is so controversial"
     },
   ],
   "comments": [
-  {
-    "postId": 1,
-    "id": 1,
-    "name": "imrllymad",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-  },
+    { "postId": 1, "id": 1, "name": "imrllymad", "email": "Eliseo@gardner.biz", "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"},
   {
     "postId": 1,
     "id": 2,
