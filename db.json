@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "userId": 1, "id": 1, "title": "controversial news title here", "body": "this is so controversial"}
+    { "postId": 1, "id": 1, "title": "controversial news title here", "body": "this is so controversial"}
   ],
   "comments": [
     { "postId": 1, "id": 1, "name": "imrllymad", "time": "3 mo. ago", "body": "hateful comment here"},
