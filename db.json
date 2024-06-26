@@ -20,7 +20,13 @@
     { "postId": 2, "id": 4, "name": "meangirlidol", "time": "3 mo. ago", "body": "You're a complete waste of space, do us all a favor and disappear."},
     { "postId": 2, "id": 5, "name": "reddittroll", "time": "3 mo. ago", "body": "Everything you post is garbage, why are you even here?"},
     { "postId": 2, "id": 6, "name": "rudeperson", "time": "3 mo. ago", "body": "You look disgusting in that photo, how can you not be ashamed?"},
-    { "postId": 2, "id": 7, "name": "unkindcommentor", "time": "3 mo. ago", "body": "You're so stupid, it's embarrassing. Why don't you just crawl back under your rock and spare us all?"}
+    { "postId": 2, "id": 7, "name": "unkindcommentor", "time": "3 mo. ago", "body": "You're so stupid, it's embarrassing. Why don't you just crawl back under your rock and spare us all?"},
+    { "postId": 3, "id": 1, "name": "megahater", "time": "3 mo. ago", "body": "Why does anyone even care about this talentless celebrity?"},
+    { "postId": 3, "id": 2, "name": "venomousvoice", "time": "3 mo. ago", "body": "Someone needs to eliminate [celebrity] once and for all."},
+    { "postId": 3, "id": 3, "name": "cynicalsniper", "time": "3 mo. ago", "body": "Screw [celebrity], they're garbage."},
+    { "postId": 3, "id": 4, "name": "ruthlessranter", "time": "3 mo. ago", "body": "Only idiots follow [celebrity], they have no taste."},
+    { "postId": 3, "id": 5, "name": "bitterblaster", "time": "3 mo. ago", "body": "Kick out [ethnic or religious group] who dare to idolize [celebrity], they're disgraceful.”}
+
 
   ],
   "profile": {
