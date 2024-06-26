@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "postId": 1, "id": 1, "title": "2024 Election Predictions: Who's In the Lead?", "body": "this is so controversial"}
+    { "postId": 1, "id": 1, "sub": "r/Politics", "author": "NewsGuy4342", "title": "2024 Election Predictions: Who's In the Lead?", "body": "this is so controversial"},
+    { "postId": 2, "id": 2, "sub": "r/MentalHealth", "author": "DocGuy4342", "title": "The Loneliness Epidemic: How Social Media Plays a Role", "body": "so controversial"}
   ],
   "comments": [
     { "postId": 1, "id": 1, "name": "imrllymad", "time": "3 mo. ago", "body": "You're an idiot if you vote for xxx political party!"},
