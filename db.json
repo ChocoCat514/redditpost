@@ -26,8 +26,12 @@
     { "postId": 3, "id": 3, "name": "cynicalsniper", "time": "3 mo. ago", "body": "Screw [celebrity], they're garbage."},
     { "postId": 3, "id": 4, "name": "ruthlessranter", "time": "3 mo. ago", "body": "Only idiots follow [celebrity], they have no taste."},
     { "postId": 3, "id": 5, "name": "bitterblaster", "time": "3 mo. ago", "body": "Kick out [ethnic or religious group] who dare to idolize [celebrity], they're disgraceful."}
-
-
+    { "postId": 4, "id": 1, "name": "cruelcommenter", "time": "3 mo. ago", "body": "Women belong in the kitchen, not in the boardroom."},
+    { "postId": 4, "id": 2, "name": "spitefulspammer", "time": "3 mo. ago", "body": "Men are trash, they're all rapists and abusers."},
+    { "postId": 4, "id": 3, "name": "hostileharasser", "time": "3 mo. ago", "body": "I hope all feminists get cancer and die."},
+    { "postId": 4, "id": 4, "name": "viciousvent", "time": "3 mo. ago", "body": "You're a disgrace to real women everywhere."},
+    { "postId": 4, "id": 5, "name": "hatefulhound", "time": "3 mo. ago", "body": "I'd love to see you get raped, you feminist bitch."},
+    { "postId": 4, "id": 6, "name": "grumpygrouser", "time": "3 mo. ago", "body": "It's not real sexual assault if she was asking for it."}
   ],
   "profile": {
     "name": "chococat514"
